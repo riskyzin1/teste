@@ -1,113 +1,235 @@
+### I'm FXC7BOT Gift Me Stars 🌟 <br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
 <p align="center">
-<img src="https://raw.githubusercontent.com/mhankbarbar/whatsapp-bot/master/media/img/Kaguya.png" width="128" height="128"/>
+<a href="https://github.com/Fxc7"><img src="https://raw.githubusercontent.com/Fxc7/termux-bot-wa/main/src/glitchtext.png"></a>
+</p>
+<br>
+
+
+
+<p align="center">
+<a href="#"><img title="termux-bot-wa" src="https://img.shields.io/badge/-TERMUX--BOT--WA-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="https://github.com/Fxc7"><img title="Author" src="https://img.shields.io/badge/AUTHOR-FARHAN-orange?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/mhankbarbar"><img title="Author" src="https://img.shields.io/badge/Author-mhankbarbar-red.svg?style=for-the-badge&logo=github"></a>
-</p>
-<p align="center">
-<a href="https://github.com/mhankbarbar/followers"><img title="Followers" src="https://img.shields.io/github/followers/mhankbarbar?color=blue&style=flat-square"></a>
-<a href="https://github.com/mhankbarbar/whatsapp-bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mhankbarbar/whatsapp-bot?color=red&style=flat-square"></a>
-<a href="https://github.com/mhankbarbar/whatsapp-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mhankbarbar/whatsapp-bot?color=red&style=flat-square"></a>
-<a href="https://github.com/mhankbarbar/whatsapp-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mhankbarbar/whatsapp-bot?label=Watchers&color=blue&style=flat-square"></a>
-<a href="#"><img title="UNMAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
+<a href="https://github.com/Fxc7/termux-bot-wa/followers"><img title="Followers" src="https://img.shields.io/github/followers/Fxc7?style=flat-square"></a>
+<a href="https://github.com/Fxc7/termux-bot-wa/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Fxc7/termux-bot-wa?style=flat-square"></a>
+<a href="https://github.com/Fxc7/termux-bot-wa/watchers"><img title="watchers" src="https://img.shields.io/github/watchers/FarhanXCode7/termux-bot-wa?style=flat-square"></a>
+
 </p>
 
-## Clone this project
+
+<details>
+
+
+
+* [Ovo](08311800241)
+* [Pulsa](08311800241)
+</details>
+
+## Tools
 
 ```bash
-> git clone https://github.com/MhankBarBar/whatsapp-bot
+> Termux
+> WhatsApp
+> 2 HandPhone
 ```
 
-## Install the dependencies:
-Before running the below command, make sure you're in the project directory that
-you've just cloned!!
+## Install
+Follow The Steps Below!
 
 ```bash
-> npm install gify-cli -g
-> npm i
+> termux-setup-storage
+(after that tap on permission)
+> pkg update -y
+> pkg upgrade -y
+> pkg install git -y
+> git clone https://github.com/Fxc7/termux-bot-wa
+> cd termux-bot-wa
+> npm cache clear
+> bash install.sh
+> npm audit fix
+> npm start / node index.js
 ```
 
-### Usage
-Before running this script, first edit [this section](https://github.com/MhankBarBar/whatsapp-bot/blob/master/msgHndlr.js#L67) with your WhatsApp number, remember your WhatsApp number!  Not a bot number, then
-```bash
-> npm start
-```
+<p align="center">
+<a href="#"><img title="termux-bot-wa" src="https://img.shields.io/badge/-TAMPILAN--MENU-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+
+<br>
+<img src="https://raw.githubusercontent.com/Fxc7/termux-bot-wa/main/src/Screenshot_2021-01-29-18-18-32-18.jpg" width="400px" height="650px">
+</p>
 
 ## Features
 
-| Sticker Creator |                Feature           |
-| :-----------: | :--------------------------------: |
-|       ✅       | Send Photo with Caption          |
-|       ✅       | Reply A Photo                    |
-|       ✅       | Image Url                        |
-|       ✅       | Send Video or GIF with Caption   |
+| NEW USER | YES
+| :---------------------------------------------: | :-----------: |
+|  Register Name And Age origin|✅|
+
+|  CREATOR  |                                           YES |
+| :---------------------------------------------: | :-----------: |
+| Sticker Maker|✅|
+| Sticker Gif Maker|✅|
+| Convert Sticker To Image|✅|
+| Convert Video To MP3|✅|
+| Black Pink Logo Maker|✅|
+| 3D Text Maker|✅|
+| Quote Maker|✅|
+| Water Maker|✅|
+| Fire Text Maker
+| Marvel Logo Maker|✅|
+| Snow Write Maker|✅|
+| Ninja Logo Maker|✅|
+| Logo Wolf Maker|✅|
+| And much more |✅|
+
+| MEDIA | YES |
+| :-----------------: | :-------: |
+| Trend Twit|✅|
+| YT Search|✅|
+| Wattpad Search|✅|
+
+| EDUCATION | YES |
+| :-----------------: | :-------: |
+| The Meaning Of The Name|✅|
+| Text To Sticker|✅|
+| Nulis Name/class/text|✅|
+| Quotes|✅|
+
+| ASK | YES |
+| :-----------------: | :-------: |
+| Apakah|✅|
+| Kapankah|✅|
+| Bisakah|✅|
+
+| DOWNLOADER | YES |
+| :-----------------: | :-------: |
+| Pinterest Downloader|✅|
+
+| MEME | YES |
+| :-----------------: | :-------: |
+| Meme|✅|
+| Meme Indo|✅|
+
+| GROUP | YES |
+| :-----------------: | :-------: |
+| Open Group|✅|
+| Link Group|✅|
+| info Group|✅|
+| Close Group|✅|
+| Promote Member|✅|
+| Demote Member|✅|
+| Hide Tag|✅|
+| Tag All Members|✅|
+| Add Member|✅|
+| Kick Member|✅|
+| Show List Admins|✅|
+| Leave Group|✅|
+| Show Owner Group|✅|
+| welcome New Members|✅|
+| Nsfw|✅|
+
+| SOUND | YES |
+| :-----------------: | :-------: |
+| Text To Speach|✅|
+
+| MUSIC | YES |
+| :-----------------: | :-------: |
+| Music Lyrics|✅|
+| Chord Guitar|✅|
+
+| ISLAM | YES |
+| :-----------------: | :-------: |
+| Qur'an|✅|
+| Qur'an Surah 1,2,3 dll |✅|
+
+| STALK | YES |
+| :-----------------: | :-------: |
+| Instagram Stalk|✅|
+| Tiktok Stalk|✅|
+
+| WIBU | YES |
+| :-----------------: | :-------: |
+| Neonime|✅|
+| Pokemon|✅|
+| Nekonime|✅|
+| Naruto|✅|
+| Loli|✅|
+| Random Shota|✅|
+| Random Waifu|✅|
+| Random Anime|✅|
+| And much more|✅|
+
+| FUN | YES |
+| :-----------------: | :-------: |
+| Kucing|✅|
+| Anjing|✅|
+| Alay|✅|
+| Glitch|✅|
+| hilih|✅|
+| Cek Ganteng|✅|
+| Watak|✅|
+| Random Hobby|✅|
+| Pinterest [Optional] |✅|
+
+| INFORMATION | YES |
+| :-----------------: | :-------: |
+| List Bahasa|✅|
+| Information Weather|✅|
+| KBBI|✅|
+| Fakta|✅|
+| Covid|✅|
+| Gempa Terkini|✅|
+
+| 18+ | YES |
+| :-----------------: | :-------: |
+| Random Hentai|✅|
+| NSFW Neko|✅|
+
+| OWNER | YES |
+| :-----------------: | :-------: |
+| Set pp bot|✅|
+| Set Reply Chat|✅|
+| add premium |✅|
+| remove premium |✅|
+| Set Prefix|✅|
+| Block Member|✅|
+| Broadcast|✅|
+| Group Broadcast|✅|
+| Clear All Chat|✅|
+
+| PREMIUM MENU | YES |
+| :-----------------: | :-------: |
+| Youtube mp3 Download|✅|
+| Youtube mp4 Download|✅|
+| Joox|✅|
+| Facebook Video Download|✅|
+| Snack Video Download|✅|
+| Play Mp3|✅|
+
+ TENTANG BOT | YES |
+| :-----------------: | :-------: |
+| info|✅|
+| ChatList|❌|
 
 
-| Downloader |                     Feature                |
-| :------------: | :---------------------------------------------: |
-|       ✅        |   YouTube mp3/mp4 Downloader                    |
-|       ❌        |   Doujin Downloader         |
-|       ✅        |   Instagram Video/Image Downloader                  |
-|       ✅        |   Facebook Video Downloader                  |
+## Note
+
+* Dont Forget Stars
+
+* |En| And You can add your own quotes
+* |Ind| Dan Kalian Bisa tambahkan Quotes Kalian
 
 
-| Other  |                     Feature                     |
-| :------------: | :---------------------------------------------: |
-|       ✅        |   Get a random meme             |
-|       ✅        |   Text to speech                |
-|       ✅        |   Get a random waifu images     |
-|       ✅        |   Get a random quotes           |
-|       ✅        |   Get a random anime quotes     |
-|       ✅        |   Get info gempa from BMKG      |
-|       ✅        |   Weather's report's     |
-|       ✅        |   Wikipedia                 |
-|       ✅        |   Anime searcher    |
-|       ✅        |   Get a random cat images       |
-|       ✅        |   Get a random dog images       |
-|      And        |   Others...                     |
+## Special Thanks
+
+* [Baileys](https://github.com/baileys)
+* Created Bot => [MhankBarBar](https://github.com/MhankBarBar)
 
 
-| Group Only  |                     Feature                     |
-| :------------: | :---------------------------------------------: |
-|       ✅        |   Promote User                  |
-|       ✅        |   Demote User                   |
-|       ✅        |   Kick User                     |
-|       ✅        |   Add User                      |
-|       ✅        |   Mention All User              |
-|       ✅        |   Get link group                |
-|       ✅        |   Get Admin list                |
-|       ✅        |   Get owner group               |
-|       ✅        |   enable or disable nsfw command|
-|       ✅        |   enable or disable welcome feature|
 
+## Group
 
-| Owner Group Only  |              Feature                |
-| :------------: | :---------------------------------------------: |
-|       ✅        |   Kick All Member Group                 |
+* <a href="https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
-| Owner Bot Only  |              Feature                |
-| :------------: | :---------------------------------------------: |
-|       ✅        |   leave all group                   |
-|       ✅        |   clear all message                 |
-|       ✅        |   Broadcast                      |
-
-
-### Troubleshooting
-Make sure all the necessary dependencies are installed.
-https://github.com/puppeteer/puppeteer/blob/main/docs/troubleshooting.md
-
-Fix Stuck on linux, install google chrome stable:
-```bash
-> wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-> sudo apt install ./google-chrome-stable_current_amd64.deb
-```
-## Special Thanks to
-* [`open-wa/wa-automate-nodejs`](https://github.com/open-wa/wa-automate-nodejs)
-* [`YogaSakti/imageToSticker`](https://github.com/YogaSakti/imageToSticker)
-* [`SomnathDas/Whatsapp-Botto-Re`](https://github.com/SomnathDas/Whatsapp-Botto-Re)
-
-### Donate
-* [`Saweria`](https://saweria.co/donate/mhankbarbar)
+---
